@@ -1,0 +1,32 @@
+*
+{
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    font-size: 65px;
+}
+
+.card{
+    color: rgb(60, 57, 57);
+    border-radius: 5%;
+    display: flex;
+
+}
+.card-body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+input{
+    width: 85px;
+}
+a{
+    margin-top: 5px;
+}
